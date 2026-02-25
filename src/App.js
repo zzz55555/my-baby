@@ -29,7 +29,7 @@ function App() {
                 <div className="flex flex-col items-center w-full max-w-[350px] py-12 gap-16 relative mx-auto text-center">
                     <Header
                         content={{
-                            title: "Congratulations",
+                            title: "Congrats",
                             subtitle: "Meo",
                         }}
                     />
